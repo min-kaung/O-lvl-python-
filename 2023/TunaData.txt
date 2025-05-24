@@ -1,0 +1,8 @@
+101,Yellowfin,105,15,3
+102,Albacore,90,15,5
+103,Skipjack,50,3,4
+104,Bigeye,105,25,4
+105,Atlantic Bonito,50,4,2
+106,Northern Bluefin,190,120,11
+107,Southern Bluefin,190,120,11
+108,Tongol,90,20,4
