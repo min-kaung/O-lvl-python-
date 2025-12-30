@@ -7,6 +7,5 @@ It is created for **revision and learning purposes** to help students understand
 
 ## Disclaimer
 - Answers may vary
-- For educational use only
 
 Good luck with your O Level exams!
